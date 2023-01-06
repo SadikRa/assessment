@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    font-family: sans-serif;
+}
+/* styles header */
+.header{
+    position: absolute;
+    background-image: url(/images/banner/banner3.png);
+    background-repeat: no-repeat;
+    background-position: top;
+    width: 1920px;
+    height: 1080px;
+}
+.header-title{
+    width: 680px;
+    font-size: 65px;
+    margin: 216px 230px 0px 845px ;
+    text-align: right;
+    color: azure;
+}
+.header-description{
+    width: 420px;
+    font-size: 16px;
+    margin: 30px 380px 0px 1100px ;
+    text-align: right;
+    color: azure;
+}
+.btn-primary{
+    margin: 50px 230px 0px 1390px;
+    font-size: 22px;
+    padding: 12px 10px;
+    background-color: orangered;
+    border-radius: 5px;
+    border: none;
+    color: rgb(7, 90, 214);
+}
+/* main styles */
+.first-section{
+    color: azure;
+}
