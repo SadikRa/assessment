@@ -3,11 +3,13 @@
     font-family: sans-serif;
 }
 /* styles header */
+.header-section{
+    margin: 0%;
+    padding: auto;
+}
 .header{
-    position: absolute;
     background-image: url(/images/banner/banner3.png);
     background-repeat: no-repeat;
-    background-position: top;
     width: 1920px;
     height: 1080px;
 }
@@ -36,5 +38,18 @@
 }
 /* main styles */
 .first-section{
-    color: azure;
+    margin: 100px 322px 0px 300px ;
+    
+}
+.div-first{
+    display: flex;
+    align-items: center;
+}
+.my-fail{
+    width: 180px;
+    margin-bottom: 20px;
+}
+.first-div-description{
+    width: 350px;
+    margin-bottom: 20px;
 }
