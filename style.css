@@ -41,6 +41,7 @@
     margin: 100px 322px 0px 300px ;
     
 }
+/* first section styles */
 .div-first{
     display: flex;
     align-items: center;
@@ -52,4 +53,31 @@
 .first-div-description{
     width: 350px;
     margin-bottom: 20px;
+}
+.first-ul {
+    list-style: none;
+  }
+  
+.first-ul li:before {
+    content: '✓';
+  }
+  /* second section styles */
+.secound-section{
+    margin-top: 200px;
+}
+.second-div{
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+    margin-left: 500px;
+}
+.second-header-h{
+    text-align: center;
+    font-size: 40px;
+    
+}
+.div-flex{
+    margin-right: 80px;
+    align-items: center;
+    text-align: center;
 }
