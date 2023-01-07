@@ -81,3 +81,26 @@
     margin-right: 80px;
     text-align: center;
 }
+.section-three{
+    margin-top: 200px;
+    margin-left: 300px;
+}
+.three-img{
+    display: flex;
+    align-items: center;
+}
+.div-title-three{
+    width: 280px;
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+.div-description-three{
+    width: 300px;
+    margin-bottom: 20px;
+}
+.list-three {
+    list-style: none;
+  }
+.list-three li:before {
+    content: '✓';
+  }
